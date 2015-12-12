@@ -1,0 +1,49 @@
+chinese food,restaurant
+restaurents,restaurant
+food,restaurant
+japanese food,restaurant
+korean food,restaurant
+vietnam food,restaurant
+mexico food,restaurant
+bars,restaurant
+grill,restaurant
+buffet,restaurant
+italian food,restaurant
+spanish food,restaurant
+french food,restaurant
+sushi,restaurant
+fast food,restaurant
+yogurt,restaurant
+dessert,restaurant
+cafes,restaurant
+sea food,restaurant
+sandwiches,restaurant
+breakfast,restaurant
+brunch,restaurant
+vegan,restaurant
+pizza,restaurant
+greek food,restaurant
+salad,restaurant
+burgers,restaurant
+asian food,restaurant
+holiday inn,hotel
+super 8,hotel
+hotels,hotel
+lounges,hotel
+interest,interests
+venues,interests
+envent spaces,interests
+art galleries,interests
+tours,interests
+landmark,interests
+historical building,interests
+park,interests
+church,interests
+art,interests
+music,interests
+paint,interests
+travel,interests
+shops,interests
+gift shop,interests
+amusement park,interests
+resort,hotel
